@@ -15,10 +15,10 @@ Currently working on MindEase – a wearable device and mobile app designed to d
 <table align="center">
   <tr>
     <td align="center">
-      <img src="expressJs.png" width="160" height="130"/><br><sub>Express.js</sub>
+      <img src="expressJs.png" width="150" height="100"/><br><sub>Express.js</sub>
     </td>
     <td align="center">
-      <img src="java.png" width="160" height="130"/><br><sub>Java</sub>
+      <img src="java.png" width="150" height="100"/><br><sub>Java</sub>
     </td>
     <td align="center">
       <img src="C++.jpg" width="160" height="130"/><br><sub>C++</sub>
