@@ -13,7 +13,7 @@
 ###  Tech Stack
 
 <div align="center">
-  <img src="HTML.png" width="160" height="130"/>
+ 
   <img src="expressJs.png" width="160" height="130"/>
   <img src="java.png" width="160" height="130"/>
   <img src="C++.jpg" width="160" height="130"/>
@@ -21,6 +21,7 @@
   <img src="DSA.png" width="160" height="130"/>
   <img src="java.png" width="160" height="130"/>
   <img src="Jupyter.png" width="160" height="130"/> 
+   <img src="HTML.png" width="160" height="130"/>
   <img src="SQL.png" width="160" height="130"/>
   <img src="firebase.png" width="160" height="130"/>
   <img src="mongodb.jpg" width="160" height="130"/>
