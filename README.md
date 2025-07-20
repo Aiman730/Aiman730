@@ -31,7 +31,7 @@
   <img src="python.jpg" width="160" height="130"/>
   <img src="reactJs.png" width="160" height="130"/>
   <img src="Anaconda.png" width="160" height="130"/>
-  <img src="Github.png" width="160" height="130"/>
+  <img src="github.png" width="160" height="130"/>
 </div>
 
 ---
