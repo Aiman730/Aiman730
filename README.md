@@ -16,7 +16,7 @@
  
   <img src="expressJs.png" width="160" height="130"/>
   <img src="java.png" width="160" height="130"/>
-  <img src="C++.jpg" width="160" height="270"/>
+  <img src="C++.jpg" width="160" height="130"/>
  <img src="CSS.png" width="160" height="130"/>
   <img src="DSA.png" width="160" height="130"/>
   <img src="java.png" width="160" height="130"/>
