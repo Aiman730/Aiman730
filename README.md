@@ -10,7 +10,7 @@ Currently working on MindEase – a wearable device and mobile app designed to d
 
 ---
 
-##  Tech Stack
+##  Tech Stack and Tools
 
 <div align="center">
  
