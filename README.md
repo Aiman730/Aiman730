@@ -10,7 +10,7 @@ Currently working on MindEase – a wearable device and mobile app designed to d
 
 ---
 
-###  Tech Stack
+##  Tech Stack
 
 <div align="center">
  
@@ -36,10 +36,6 @@ Currently working on MindEase – a wearable device and mobile app designed to d
 
 ---
 
-###  Pinned Projects
-Check out some of my featured projects below!
-
----
 
  **Let's connect**:  
  • [Email](aimen.azhar111333@gmail.com)
