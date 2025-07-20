@@ -12,30 +12,29 @@ Currently working on MindEase – a wearable device and mobile app designed to d
 
 ##  Tech Stack and Tools
 
-<div align="center" style="padding: 20px; border: 2px solid #ddd; border-radius: 10px; max-width: 1000px; margin: auto;">
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-    <img src="expressJs.png" width="100" height="100" />
-    <img src="java.png" width="100" height="100" />
-    <img src="C++.jpg" width="100" height="100" />
-    <img src="CSS.png" width="100" height="100" />
-    <img src="DSA.png" width="100" height="100" />
-    <img src="Jupyter.png" width="100" height="100" />
-    <img src="HTML.png" width="100" height="100" />
-    <img src="SQL.png" width="100" height="100" />
-    <img src="firebase.png" width="100" height="100" />
-    <img src="mongodb.jpg" width="100" height="100" />
-    <img src="nodeJs.png" width="100" height="100" />
-    <img src="numpy1.png" width="100" height="100" />
-    <img src="pandas2.png" width="100" height="100" />
-    <img src="python1.png" width="100" height="100" />
-    <img src="reactJs.png" width="100" height="100" />
-    <img src="Anaconda.png" width="100" height="100" />
-    <img src="github1.jpg" width="100" height="100" />
-
-  </div>
+<div align="center">
+ 
+  <img src="expressJs.png" width="160" height="130"/>
+  <img src="java.png" width="160" height="130"/>
+  <img src="C++.jpg" width="160" height="130"/>
+ <img src="CSS.png" width="160" height="130"/>
+  <img src="DSA.png" width="160" height="130"/>
+  <img src="java.png" width="160" height="130"/>
+  <img src="Jupyter.png" width="160" height="130"/> 
+   <img src="HTML.png" width="160" height="130"/>
+  <img src="SQL.png" width="160" height="130"/>
+  <img src="firebase.png" width="160" height="130"/>
+  <img src="mongodb.jpg" width="160" height="130"/>
+  <img src="nodeJs.png" width="160" height="130"/>
+  <img src="numpy1.png" width="160" height="130"/>
+  <img src="pandas2.png" width="160" height="130"/>
+  <img src="python1.png" width="160" height="130"/>
+  <img src="reactJs.png" width="160" height="130"/>
+  <img src="Anaconda.png" width="160" height="130"/>
+  <img src="github1.jpg" width="160" height="130"/>
 </div>
+
+
 
 
 ---
