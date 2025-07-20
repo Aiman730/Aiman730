@@ -12,25 +12,70 @@ Currently working on MindEase – a wearable device and mobile app designed to d
 
 ##  Tech Stack and Tools
 
-<p align="center">
-  <img src="expressJs.png" width="100" height="100"/>
-  <img src="java.png" width="100" height="100"/>
-  <img src="C++.jpg" width="100" height="100"/>
-  <img src="CSS.png" width="100" height="100"/>
-  <img src="DSA.png" width="100" height="100"/>
-  <img src="Jupyter.png" width="100" height="100"/>
-  <img src="HTML.png" width="100" height="100"/>
-  <img src="SQL.png" width="100" height="100"/>
-  <img src="firebase.png" width="100" height="100"/>
-  <img src="mongodb.jpg" width="100" height="100"/>
-  <img src="nodeJs.png" width="100" height="100"/>
-  <img src="numpy1.png" width="100" height="100"/>
-  <img src="pandas2.png" width="100" height="100"/>
-  <img src="python1.png" width="100" height="100"/>
-  <img src="reactJs.png" width="100" height="100"/>
-  <img src="Anaconda.png" width="100" height="100"/>
-  <img src="github1.jpg" width="100" height="100"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="expressJs.png" width="60" height="60"/><br><sub>Express.js</sub>
+    </td>
+    <td align="center">
+      <img src="java.png" width="60" height="60"/><br><sub>Java</sub>
+    </td>
+    <td align="center">
+      <img src="C++.jpg" width="60" height="60"/><br><sub>C++</sub>
+    </td>
+    <td align="center">
+      <img src="CSS.png" width="60" height="60"/><br><sub>CSS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="DSA.png" width="60" height="60"/><br><sub>DSA</sub>
+    </td>
+    <td align="center">
+      <img src="Jupyter.png" width="60" height="60"/><br><sub>Jupyter</sub>
+    </td>
+    <td align="center">
+      <img src="HTML.png" width="60" height="60"/><br><sub>HTML</sub>
+    </td>
+    <td align="center">
+      <img src="SQL.png" width="60" height="60"/><br><sub>SQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="firebase.png" width="60" height="60"/><br><sub>Firebase</sub>
+    </td>
+    <td align="center">
+      <img src="mongodb.jpg" width="60" height="60"/><br><sub>MongoDB</sub>
+    </td>
+    <td align="center">
+      <img src="nodeJs.png" width="60" height="60"/><br><sub>Node.js</sub>
+    </td>
+    <td align="center">
+      <img src="numpy1.png" width="60" height="60"/><br><sub>NumPy</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="pandas2.png" width="60" height="60"/><br><sub>Pandas</sub>
+    </td>
+    <td align="center">
+      <img src="python1.png" width="60" height="60"/><br><sub>Python</sub>
+    </td>
+    <td align="center">
+      <img src="reactJs.png" width="60" height="60"/><br><sub>React</sub>
+    </td>
+    <td align="center">
+      <img src="Anaconda.png" width="60" height="60"/><br><sub>Anaconda</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">
+      <img src="github1.jpg" width="60" height="60"/><br><sub>GitHub</sub>
+    </td>
+  </tr>
+</table>
+
 
 
 
