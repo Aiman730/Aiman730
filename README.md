@@ -13,7 +13,7 @@
 ###  Tech Stack
 
 <div align="center">
-  <img src="HTML.png" width="150" height="130"/>
+  <img src="HTML.png" width="160" height="130"/>
   <img src="expressJs.png" width="40" height="40"/>
   <img src="java.png" width="40" height="40"/>
   <img src="C++.jpg" width="40" height="40"/>
