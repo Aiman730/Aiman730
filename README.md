@@ -26,9 +26,9 @@
   <img src="firebase.png" width="160" height="130"/>
   <img src="mongodb.jpg" width="160" height="130"/>
   <img src="nodeJs.png" width="160" height="130"/>
-  <img src="numpy.png" width="160" height="130"/>
-  <img src="pandas.png" width="160" height="130"/>
-  <img src="python.jpg" width="160" height="130"/>
+  <img src="numpy1.png" width="160" height="130"/>
+  <img src="pandas1.webp" width="160" height="130"/>
+  <img src="python1.png" width="160" height="130"/>
   <img src="reactJs.png" width="160" height="130"/>
   <img src="Anaconda.png" width="160" height="130"/>
   <img src="github1.jpg" width="160" height="130"/>
