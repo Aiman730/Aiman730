@@ -14,21 +14,21 @@
 
 <div align="center">
   <img src="HTML.png" width="160" height="130"/>
-  <img src="expressJs.png" width="40" height="40"/>
-  <img src="java.png" width="40" height="40"/>
-  <img src="C++.jpg" width="40" height="40"/>
- <img src="CSS.png" width="40" height="40"/>
-  <img src="DSA.png" width="40" height="40"/>
-  <img src="java.png" width="40" height="40"/>
-  <img src="Jupyter.png" width="40" height="40"/> 
-  <img src="SQL.png" width="40" height="40"/>
-  <img src="firebase.png" width="40" height="40"/>
-  <img src="mongodb.png" width="40" height="40"/>
-  <img src="nodeJs.png" width="40" height="40"/>
-  <img src="numpy.png" width="40" height="40"/>
-  <img src="pandas.png" width="40" height="40"/>
-  <img src="python.jpg" width="40" height="40"/>
-  <img src="reactJs.png" width="40" height="40"/>
+  <img src="expressJs.png" width="160" height="130"/>
+  <img src="java.png" width="160" height="130"/>
+  <img src="C++.jpg" width="160" height="130"/>
+ <img src="CSS.png" width="160" height="130"/>
+  <img src="DSA.png" width="160" height="130"/>
+  <img src="java.png" width="160" height="130"/>
+  <img src="Jupyter.png" width="160" height="130"/> 
+  <img src="SQL.png" width="160" height="130"/>
+  <img src="firebase.png" width="160" height="130"/>
+  <img src="mongodb.png" width="160" height="130"/>
+  <img src="nodeJs.png" width="160" height="130"/>
+  <img src="numpy.png" width="160" height="130"/>
+  <img src="pandas.png" width="160" height="130"/>
+  <img src="python.jpg" width="160" height="130"/>
+  <img src="reactJs.png" width="160" height="130"/>
 </div>
 
 ---
