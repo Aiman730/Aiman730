@@ -23,7 +23,7 @@
   <img src="Jupyter.png" width="160" height="130"/> 
   <img src="SQL.png" width="160" height="130"/>
   <img src="firebase.png" width="160" height="130"/>
-  <img src="mongodb.png" width="160" height="130"/>
+  <img src="mongodb.jpg" width="160" height="130"/>
   <img src="nodeJs.png" width="160" height="130"/>
   <img src="numpy.png" width="160" height="130"/>
   <img src="pandas.png" width="160" height="130"/>
