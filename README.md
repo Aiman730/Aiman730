@@ -11,9 +11,25 @@
 ---
 
 ###  Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React, React Native  
-**Backend:** Node.js, Express, MongoDB  
-**Tools:** Git, GitHub, Figma, Firebase, VS Code, Android Studio  
+
+<div align="center">
+  <img src="HTML.png" width="40" height="40"/>
+  <img src="expressJs.png" width="40" height="40"/>
+  <img src="java.png" width="40" height="40"/>
+  <img src="C++.jpg" width="40" height="40"/>
+ <img src="CSS.png" width="40" height="40"/>
+  <img src="DSA.png" width="40" height="40"/>
+  <img src="java.png" width="40" height="40"/>
+  <img src="Jupyter.png" width="40" height="40"/> 
+  <img src="SQL.png" width="40" height="40"/>
+  <img src="firebase.png" width="40" height="40"/>
+  <img src="mongodb.png" width="40" height="40"/>
+  <img src="nodeJs.png" width="40" height="40"/>
+  <img src="numpy.png" width="40" height="40"/>
+  <img src="pandas.png" width="40" height="40"/>
+  <img src="python.jpg" width="40" height="40"/>
+  <img src="reactJs.png" width="40" height="40"/>
+</div>
 
 ---
 
