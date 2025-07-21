@@ -1,4 +1,4 @@
- # Computer Science | Full Stack Developer | AI/ML Research Enthusiast
+ # Computer Science Student | Full Stack Developer | AI/ML Research Enthusiast
 
  Passionate about building tech solutions that make a real-world impact.  
  
